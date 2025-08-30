@@ -34,16 +34,25 @@ This project demonstrates:
 ## 📸 Screenshots
 
 ### 🔐 Login Page
-![Login Page](https://via.placeholder.com/800x400/1f2937/ffffff?text=Login+Page+-+Modern+UI+with+Tailwind+CSS)
+![Login Page](screenshots/login.png)
+
+### 📝 Signup Page
+![Signup Page](screenshots/signup.png)
 
 ### 📋 Dashboard with Tasks
-![Dashboard](https://via.placeholder.com/800x400/1f2937/ffffff?text=Dashboard+-+Task+Management+Interface)
+![Dashboard](screenshots/dashboard.png)
+
+### ➕ Task Creation
+![Task Creation](screenshots/create-task.png)
 
 ### 📚 API Documentation (Swagger)
-![Swagger Docs](https://via.placeholder.com/800x400/1f2937/ffffff?text=FastAPI+Swagger+Documentation)
+![Swagger Docs](screenshots/swagger-ui.png)
 
 ### 🐳 Docker Containers Running
-![Docker Status](https://via.placeholder.com/800x400/1f2937/ffffff?text=Docker+Containers+-+All+Services+Running)
+![Docker Status](screenshots/docker.png)
+
+### 🔧 API Testing
+![API Testing](screenshots/api-testing.png)
 
 - **User Authentication**: JWT-based signup/login system
 - **Task Management**: Create, read, update, delete tasks
