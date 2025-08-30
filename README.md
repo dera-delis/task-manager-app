@@ -4,7 +4,10 @@ A full-stack task management application built with FastAPI, React, and PostgreS
 
 ## 🚀 Live Demo
 
-**Try the application live:** [Task Manager App Demo](https://github.com/dera-delis/task-manager-app)
+**Frontend (React):** [Live App - Coming Soon](https://github.com/dera-delis/task-manager-app) *(Deploy to Vercel/Netlify)*
+**Backend (FastAPI):** [Live API - Coming Soon](https://github.com/dera-delis/task-manager-app) *(Deploy to Render/Railway)*
+
+*Note: Currently points to GitHub. Once deployed, these will link to live applications.*
 
 ## 🏆 Portfolio Project
 
@@ -20,12 +23,27 @@ This project demonstrates:
 
 ## 📊 Project Status
 
+![CI/CD](https://github.com/dera-delis/task-manager-app/actions/workflows/ci.yml/badge.svg)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+## 📸 Screenshots
+
+### 🔐 Login Page
+![Login Page](https://via.placeholder.com/800x400/1f2937/ffffff?text=Login+Page+-+Modern+UI+with+Tailwind+CSS)
+
+### 📋 Dashboard with Tasks
+![Dashboard](https://via.placeholder.com/800x400/1f2937/ffffff?text=Dashboard+-+Task+Management+Interface)
+
+### 📚 API Documentation (Swagger)
+![Swagger Docs](https://via.placeholder.com/800x400/1f2937/ffffff?text=FastAPI+Swagger+Documentation)
+
+### 🐳 Docker Containers Running
+![Docker Status](https://via.placeholder.com/800x400/1f2937/ffffff?text=Docker+Containers+-+All+Services+Running)
 
 - **User Authentication**: JWT-based signup/login system
 - **Task Management**: Create, read, update, delete tasks
@@ -242,6 +260,44 @@ REACT_APP_API_URL=http://localhost:8000
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## 🚀 Deployment
+
+### Frontend Deployment (Vercel/Netlify)
+```bash
+# Build the frontend
+cd frontend
+npm run build
+
+# Deploy to Vercel
+vercel --prod
+
+# Or deploy to Netlify
+netlify deploy --prod
+```
+
+### Backend Deployment (Render/Railway)
+```bash
+# Set environment variables in your deployment platform
+DATABASE_URL=your-production-postgres-url
+SECRET_KEY=your-production-secret-key
+
+# Deploy using Docker
+docker build -t task-manager-backend ./backend
+docker push your-registry/task-manager-backend
+```
+
+### Environment Variables for Production
+```env
+# Production Database
+DATABASE_URL=postgresql://user:password@host:port/database
+
+# Production JWT Secret
+SECRET_KEY=your-super-secure-production-secret-key
+
+# CORS Origins
+ALLOWED_ORIGINS=https://your-frontend-domain.com
+```
+
 ## 🆘 Support
 
 If you encounter any issues or have questions:
@@ -259,4 +315,23 @@ If you encounter any issues or have questions:
 - [ ] Mobile app
 - [ ] Email notifications
 - [ ] Task analytics and reports
+
+## 💼 Portfolio Project
+
+This project is part of my **Full-Stack Portfolio** showcasing modern development skills.
+
+**🔗 Connect with me:**
+- [GitHub Profile](https://github.com/dera-delis)
+- [LinkedIn](https://linkedin.com/in/dera-delis) *(Update with your actual LinkedIn)*
+
+**🚀 Other Portfolio Projects:**
+- [Blog API](https://github.com/dera-delis/blog-api) - Backend-focused FastAPI project
+- [Task Manager App](https://github.com/dera-delis/task-manager-app) - Full-stack application *(This project)*
+
+**💡 Why This Project?**
+This full-stack application demonstrates:
+- **End-to-end development** from database design to UI implementation
+- **Modern architecture** with microservices and containerization
+- **Production practices** including testing, CI/CD, and documentation
+- **User experience** with responsive design and real-time updates
 
