@@ -1,8 +1,31 @@
 # Task Manager App
 
-A full-stack task management application built with FastAPI, React, and PostgreSQL. Features user authentication, task CRUD operations, and a modern responsive UI.
+A full-stack task management application built with FastAPI, React, and PostgreSQL.
+
+## 🚀 Live Demo
+
+**Try the application live:** [Task Manager App Demo](https://github.com/dera-delis/task-manager-app)
+
+## 🏆 Portfolio Project
+
+This project demonstrates:
+- **Full-Stack Development** - Backend API + Frontend UI
+- **Modern Tech Stack** - FastAPI, React, PostgreSQL, Docker
+- **Authentication System** - JWT-based user management
+- **Database Design** - SQLAlchemy ORM with migrations
+- **Containerization** - Production-ready Docker setup
+- **Professional Development** - Clean commit history and testing
 
 ## 🚀 Features
+
+## 📊 Project Status
+
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 - **User Authentication**: JWT-based signup/login system
 - **Task Management**: Create, read, update, delete tasks
