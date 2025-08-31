@@ -2,11 +2,43 @@
 
 A full-stack task management application built with modern technologies. Users can register, login, and manage their tasks with a clean, intuitive interface.
 
-## Live Demo
+## 🚀 Live Demo
 
 - **Frontend**: [https://task-manager-app-iota-teal.vercel.app](https://task-manager-app-iota-teal.vercel.app)
 - **Backend API**: [https://p01--task-manager-backend--6s6kwy85s9yl.code.run](https://p01--task-manager-backend--6s6kwy85s9yl.code.run)
 - **API Documentation**: [https://p01--task-manager-backend--6s6kwy85s9yl.code.run/docs](https://p01--task-manager-backend--6s6kwy85s9yl.code.run/docs)
+
+## 🏆 Badges
+
+![CI/CD](https://github.com/dera-delis/task-manager-app/actions/workflows/ci.yml/badge.svg)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+## 📸 Screenshots
+
+### 🔐 Login Page
+![Login](screenshots/login.png)
+
+### 📝 Signup Page
+![Signup](screenshots/signup.png)
+
+### 📋 Dashboard with Tasks
+![Dashboard](screenshots/dashboard.png)
+
+### 📚 API Documentation (Swagger)
+![Swagger](screenshots/swagger-ui.png)
+
+### 🐳 Docker Running
+![Docker](screenshots/docker.png)
+
+### ➕ Task Creation
+![Task Creation](screenshots/create-task.png)
+
+### 🔧 API Testing
+![API Testing](screenshots/api-testing.png)
 
 ## Features
 
@@ -157,6 +189,38 @@ The application is deployed using:
 3. Make your changes
 4. Add tests if applicable
 5. Submit a pull request
+
+## 🎯 Future Enhancements
+
+- [ ] Task categories and tags
+- [ ] Due dates and reminders
+- [ ] Dark mode theme
+- [ ] Task collaboration (shared tasks)
+- [ ] Email notifications
+- [ ] Task analytics and reports
+- [ ] Mobile app
+- [ ] Task templates
+- [ ] Bulk operations
+- [ ] Export/import functionality
+
+## 💼 Portfolio Projects
+
+This project is part of my **Full-Stack Portfolio** showcasing modern development skills.
+
+**🔗 Connect with me:**
+- [GitHub Profile](https://github.com/dera-delis)
+- [LinkedIn](https://linkedin.com/in/dera-delis) *(Update with your actual LinkedIn)*
+
+**🚀 Other Portfolio Projects:**
+- [Blog API](https://github.com/dera-delis/blog-api) – Backend-focused FastAPI project
+- [Task Manager App](https://github.com/dera-delis/task-manager-app) – Full-stack application *(This project)*
+
+**💡 Why This Project?**
+This full-stack application demonstrates:
+- **End-to-end development** from database design to UI implementation
+- **Modern architecture** with microservices and containerization
+- **Production practices** including testing, CI/CD, and documentation
+- **User experience** with responsive design and real-time updates
 
 ## License
 
