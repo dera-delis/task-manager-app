@@ -17,6 +17,14 @@ A full-stack task management application built with modern technologies. Users c
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+## Features
+
+- **User Authentication**: Secure signup and login with JWT tokens
+- **Task Management**: Create, read, update, and delete tasks
+- **Task Status**: Mark tasks as complete or incomplete
+- **User Dashboard**: Personalized task view for each user
+- **Responsive Design**: Works on desktop and mobile devices
+
 ## 📸 Screenshots
 
 ### 🔐 Login Page
@@ -39,8 +47,6 @@ A full-stack task management application built with modern technologies. Users c
 
 ### 🔧 API Testing
 ![API Testing](screenshots/api-testing.png)
-
-## Features
 
 - **User Authentication**: Secure signup and login with JWT tokens
 - **Task Management**: Create, read, update, and delete tasks
@@ -182,6 +188,8 @@ The application is deployed using:
 - **Backend**: Northflank for container hosting
 - **Database**: Northflank PostgreSQL addon
 
+> 🛠️ **Note**: The frontend and backend are deployed separately to mimic real-world production setups, demonstrating cloud-native architecture principles.
+
 ## Contributing
 
 1. Fork the repository
@@ -215,6 +223,8 @@ This project is part of my **Full-Stack Portfolio** showcasing modern developmen
 - [Blog API](https://github.com/dera-delis/blog-api) – Backend-focused FastAPI project
 - [Task Manager App](https://github.com/dera-delis/task-manager-app) – Full-stack application *(This project)*
 
+👉 **Check out more projects on my [GitHub Repositories](https://github.com/dera-delis?tab=repositories)**
+
 **🔗 Source Code:**
 - [Browse Codebase](https://github.com/dera-delis/task-manager-app) – View the complete source code
 
@@ -232,6 +242,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 - **GitHub**: [@dera-delis](https://github.com/dera-delis)
-- **LinkedIn**: [dera-delis](https://www.linkedin.com/in/dera-delis)
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/dera-delis)
 - **Portfolio**: [View All Projects](https://github.com/dera-delis?tab=repositories)
 
