@@ -242,6 +242,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 - **GitHub**: [@dera-delis](https://github.com/dera-delis)
-- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/dera-delis)
+- **LinkedIn**: [@dera-delis](https://www.linkedin.com/in/dera-delis)
 - **Portfolio**: [View All Projects](https://github.com/dera-delis?tab=repositories)
 
