@@ -4,9 +4,9 @@ A full-stack task management application built with modern technologies. Users c
 
 ## 🚀 Live Demo
 
-- **Frontend**: [https://task-manager-app-iota-teal.vercel.app](https://task-manager-app-iota-teal.vercel.app)
-- **Backend API**: [https://p01--task-manager-backend--6s6kwy85s9yl.code.run](https://p01--task-manager-backend--6s6kwy85s9yl.code.run)
-- **API Documentation**: [https://p01--task-manager-backend--6s6kwy85s9yl.code.run/docs](https://p01--task-manager-backend--6s6kwy85s9yl.code.run/docs)
+- **Frontend**: [View Live App](https://task-manager-app-iota-teal.vercel.app) – See it in action
+- **Backend API**: [Explore API](https://p01--task-manager-backend--6s6kwy85s9yl.code.run) – Check out the backend
+- **API Documentation**: [View Docs](https://p01--task-manager-backend--6s6kwy85s9yl.code.run/docs) – Interactive API explorer
 
 ## 🏆 Badges
 
@@ -215,10 +215,8 @@ This project is part of my **Full-Stack Portfolio** showcasing modern developmen
 - [Blog API](https://github.com/dera-delis/blog-api) – Backend-focused FastAPI project
 - [Task Manager App](https://github.com/dera-delis/task-manager-app) – Full-stack application *(This project)*
 
-**🔗 Quick Links:**
-- [View Live App](https://task-manager-app-iota-teal.vercel.app) – See it in action
-- [Explore API](https://p01--task-manager-backend--6s6kwy85s9yl.code.run/docs) – Check out the backend
-- [Source Code](https://github.com/dera-delis/task-manager-app) – Browse the codebase
+**🔗 Source Code:**
+- [Browse Codebase](https://github.com/dera-delis/task-manager-app) – View the complete source code
 
 **💡 Why This Project?**
 This full-stack application demonstrates:
