@@ -209,11 +209,16 @@ This project is part of my **Full-Stack Portfolio** showcasing modern developmen
 
 **🔗 Connect with me:**
 - [GitHub Profile](https://github.com/dera-delis)
-- [LinkedIn](https://linkedin.com/in/dera-delis) *(Update with your actual LinkedIn)*
+- [LinkedIn](https://www.linkedin.com/in/dera-delis)
 
 **🚀 Other Portfolio Projects:**
 - [Blog API](https://github.com/dera-delis/blog-api) – Backend-focused FastAPI project
 - [Task Manager App](https://github.com/dera-delis/task-manager-app) – Full-stack application *(This project)*
+
+**🔗 Quick Links:**
+- [View Live App](https://task-manager-app-iota-teal.vercel.app) – See it in action
+- [Explore API](https://p01--task-manager-backend--6s6kwy85s9yl.code.run/docs) – Check out the backend
+- [Source Code](https://github.com/dera-delis/task-manager-app) – Browse the codebase
 
 **💡 Why This Project?**
 This full-stack application demonstrates:
@@ -229,5 +234,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 - **GitHub**: [@dera-delis](https://github.com/dera-delis)
-- **Project**: [Task Manager App](https://github.com/dera-delis/task-manager-app)
+- **LinkedIn**: [dera-delis](https://www.linkedin.com/in/dera-delis)
+- **Portfolio**: [View All Projects](https://github.com/dera-delis?tab=repositories)
 
