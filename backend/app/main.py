@@ -19,7 +19,7 @@ app.add_middleware(
     allow_origins=[
         "http://localhost:3000", 
         "http://frontend:3000",
-        "https://task-manager-jjp0aeqyk-pedros-projects-da4369b0.vercel.app",  # Vercel frontend
+        "https://task-manager-app-iota-teal.vercel.app",  # Vercel frontend
         "https://*.onrender.com",  # Render backend
         "https://*.vercel.app"     # Vercel domains
     ],
