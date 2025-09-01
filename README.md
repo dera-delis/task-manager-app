@@ -1,6 +1,8 @@
 # Task Manager App
 
-A full-stack task management application built with modern technologies. Users can register, login, and manage their tasks with a clean, intuitive interface.
+🚀 **A full-stack FastAPI + React task management app with JWT auth, PostgreSQL, and Dockerized deployment.**
+
+A modern, production-ready application that demonstrates end-to-end development skills with cloud-native architecture.
 
 ## 🚀 Live Demo
 
@@ -16,6 +18,8 @@ A full-stack task management application built with modern technologies. Users c
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vercel](https://img.shields.io/badge/Frontend-Vercel-black?style=for-the-badge&logo=vercel)
+![Northflank](https://img.shields.io/badge/Backend-Northflank-blue?style=for-the-badge&logo=kubernetes)
 
 ## Features
 
@@ -47,12 +51,6 @@ A full-stack task management application built with modern technologies. Users c
 
 ### 🔧 API Testing
 ![API Testing](screenshots/api-testing.png)
-
-- **User Authentication**: Secure signup and login with JWT tokens
-- **Task Management**: Create, read, update, and delete tasks
-- **Task Status**: Mark tasks as complete or incomplete
-- **User Dashboard**: Personalized task view for each user
-- **Responsive Design**: Works on desktop and mobile devices
 
 ## Tech Stack
 
